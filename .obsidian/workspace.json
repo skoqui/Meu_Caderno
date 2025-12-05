@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "7fe1d3167fb969e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1108cf3f77073c05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "284a4267cfaf23b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Wiki - Links/nslookup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nslookup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a38857584d5a821",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18d1bca6ee65792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d0033b4c8233525",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "215c1caca0fb0797",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c7bc1aeb00886a32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "3cf7b1b7510a12e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f82270b5bb860db2",
+        "type": "tabs",
+        "dimension": 33.333333333333336,
+        "children": [
+          {
+            "id": "5d89ecf582c881dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 - UNIP/Aulas/Auditoria de Sistemas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Auditoria de Sistemas"
+            }
+          },
+          {
+            "id": "5b412449727d49c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 - UNIP/Aulas/Auditoria de Sistemas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Auditoria de Sistemas"
+            }
+          },
+          {
+            "id": "1a5d3a03da979b2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Wiki - Links/nslookup.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de nslookup"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "3292f55cfbd2d955",
+        "type": "tabs",
+        "dimension": 33.333333333333336,
+        "children": [
+          {
+            "id": "6d41a5e07d417959",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9fbf4ee82efb4aea",
+        "type": "tabs",
+        "dimension": 33.333333333333336,
+        "children": [
+          {
+            "id": "e3eb9721926d011f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "284a4267cfaf23b7",
+  "lastOpenFiles": [
+    "Esboço do projeto.md",
+    "00 - Wiki - Links/nslookup.md",
+    "00 - Wiki - Links/Fingerprinting.md",
+    "00 - Wiki - Links/CSRF.md",
+    "00 - Wiki - Links/Buscadores.md",
+    "00 - Wiki - Links/Bruteforce.md",
+    "00 - Wiki - Links/Autonomous System (AS).md",
+    "00 - Wiki - Links/Lambda.md",
+    "03 - Programação/Python/Prof Rodrigo Macedo/Python Dev.md",
+    "00 - Wiki - Links/Regex.md",
+    "06 - CTFs/CTFs.md",
+    "06 - CTFs",
+    "02 - Cursos Cibersec/Curso Pentest/Prof. Vitor/Anotações.md",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/02 - Mapeando Infraestrutura do Alvo.md",
+    "00 - Comandos/Hydra.md",
+    "03 - Programação/Python/Prof Rodrigo Macedo",
+    "00 - Comandos/gobuster.md",
+    "00 - Wiki - Links/Sem título 1.md",
+    "00 - Comandos",
+    "00 - Wiki - Links/SSRF.md",
+    "00 - Wiki - Links/Stored XSS.md",
+    "00 - Wiki - Links/URL.md",
+    "00 - Wiki - Links/GPG.md",
+    "00 - Wiki - Links/DOM-based.md",
+    "01 - Anotações/2025-10-06.md",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/03 - Teste de Vulnerabilidade.md",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/01 - Aplicações Web.md",
+    "02 - Cursos Cibersec/Curso Pentest/Prof. Messias Eric/Modulos/Dominando GNU-LINUX/💻  FHS (File Hierarchy Standardard).md",
+    "02 - Cursos Cibersec/Curso Pentest/Prof. Messias Eric/Comandos/Comandos Terminal.md",
+    "02 - Cursos Cibersec/Curso Pentest/Prof. Vitor",
+    "Trabalho/Proteção Digital (1).png",
+    "Trabalho/Proteção Digital.png",
+    "Trabalho/logo.png",
+    "02 - Cursos Cibersec/Curso Linux/Prof Kretcheu",
+    "02 - Cursos Cibersec/Curso Linux",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/Canvas/esboço.canvas",
+    "logo.png",
+    "Trabalho",
+    "01 - Anotações/Calendar",
+    "03 - Programação/Python/Bóson Treinamentos",
+    "00 - Wiki - Links/Sem título.base",
+    "Sem título.canvas",
+    "0 - Estrutura Obsidian/Canvas/Sem título.canvas",
+    "04 - UNIP/Banco de imagens/_- visual selection.png",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/Canvas/name server.canvas",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/Canvas/Pasted image 20250812154548.png",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Burp-Suite/Curso Andres Alonso/Canvas/Esboço.canvas",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Burp-Suite/Curso Andres Alonso/0 - img-burp-suite/Pasted image 20250808161130.png",
+    "Pasted image 20250808170357.png",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Burp-Suite/Curso Andres Alonso/0 - img-burp-suite/Pasted image 20250808170256.png",
+    "Pasted image 20250808161331.png",
+    "00 - Templates/Sem título.canvas"
+  ]
+}

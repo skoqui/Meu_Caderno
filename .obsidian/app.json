@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - Wiki - Links",
+  "showLineNumber": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
