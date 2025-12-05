@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1108cf3f77073c05",
+        "id": "6c147462807a3a90",
         "type": "tabs",
         "children": [
           {
-            "id": "284a4267cfaf23b7",
+            "id": "4280a341cd23b128",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Wiki - Links/nslookup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "nslookup"
+              "title": "Nova aba"
             }
           }
         ]
@@ -128,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Wiki - Links/nslookup.md",
+                "file": "Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de nslookup"
+              "title": "Sumário de Sem título"
             }
           }
         ],
@@ -195,37 +191,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "284a4267cfaf23b7",
+  "active": "8d0033b4c8233525",
   "lastOpenFiles": [
-    "Esboço do projeto.md",
-    "00 - Wiki - Links/nslookup.md",
-    "00 - Wiki - Links/Fingerprinting.md",
-    "00 - Wiki - Links/CSRF.md",
-    "00 - Wiki - Links/Buscadores.md",
-    "00 - Wiki - Links/Bruteforce.md",
-    "00 - Wiki - Links/Autonomous System (AS).md",
-    "00 - Wiki - Links/Lambda.md",
-    "03 - Programação/Python/Prof Rodrigo Macedo/Python Dev.md",
-    "00 - Wiki - Links/Regex.md",
-    "06 - CTFs/CTFs.md",
-    "06 - CTFs",
-    "02 - Cursos Cibersec/Curso Pentest/Prof. Vitor/Anotações.md",
-    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/02 - Mapeando Infraestrutura do Alvo.md",
-    "00 - Comandos/Hydra.md",
-    "03 - Programação/Python/Prof Rodrigo Macedo",
-    "00 - Comandos/gobuster.md",
-    "00 - Wiki - Links/Sem título 1.md",
-    "00 - Comandos",
-    "00 - Wiki - Links/SSRF.md",
-    "00 - Wiki - Links/Stored XSS.md",
-    "00 - Wiki - Links/URL.md",
-    "00 - Wiki - Links/GPG.md",
-    "00 - Wiki - Links/DOM-based.md",
+    "Sem título.md",
+    "01 - Anotações/2025-08-12.md",
+    "01 - Anotações/2025-08-13.md",
+    "01 - Anotações/2025-08-15.md",
+    "01 - Anotações/2025-08-08.md",
+    "01 - Anotações/2025-08-07.md",
+    "01 - Anotações/2025-09-19.md",
+    "01 - Anotações/2025-09-02.md",
+    "01 - Anotações/2025-09-04.md",
+    "01 - Anotações/2025-09-05.md",
+    "01 - Anotações/2025-09-10.md",
+    "01 - Anotações/2025-09-15.md",
+    "01 - Anotações/2025-09-17.md",
+    "01 - Anotações/2025-09-26.md",
+    "01 - Anotações/2025-09-29.md",
     "01 - Anotações/2025-10-06.md",
-    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/03 - Teste de Vulnerabilidade.md",
-    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/01 - Aplicações Web.md",
+    "01 - Anotações/2025-09-22.md",
+    "01 - Anotações/2025-09-09.md",
+    "02 - Cursos Cibersec/Curso Pentest/Prof. Vitor/Anotações.md",
     "02 - Cursos Cibersec/Curso Pentest/Prof. Messias Eric/Modulos/Dominando GNU-LINUX/💻  FHS (File Hierarchy Standardard).md",
+    "02 - Cursos Cibersec/Curso Pentest/Prof. Messias Eric/Imagens/Pasted image 20250804222058.png",
     "02 - Cursos Cibersec/Curso Pentest/Prof. Messias Eric/Comandos/Comandos Terminal.md",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/03 - Teste de Vulnerabilidade.md",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/02 - Mapeando Infraestrutura do Alvo.md",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/01 - Aplicações Web.md",
+    "02 - Cursos Cibersec/Curso Linux/Prof Kretcheu/Curso GNU-Linux.md",
+    "02 - Cursos Cibersec/Curso Forense Digital/Prof. Messias Eric/Recuperação de Dados.md",
+    "06 - CTFs",
+    "03 - Programação/Python/Prof Rodrigo Macedo",
+    "00 - Comandos",
     "02 - Cursos Cibersec/Curso Pentest/Prof. Vitor",
     "Trabalho/Proteção Digital (1).png",
     "Trabalho/Proteção Digital.png",
@@ -247,7 +244,6 @@
     "02 - Cursos Cibersec/Curso Pentest/Curso Burp-Suite/Curso Andres Alonso/0 - img-burp-suite/Pasted image 20250808161130.png",
     "Pasted image 20250808170357.png",
     "02 - Cursos Cibersec/Curso Pentest/Curso Burp-Suite/Curso Andres Alonso/0 - img-burp-suite/Pasted image 20250808170256.png",
-    "Pasted image 20250808161331.png",
     "00 - Templates/Sem título.canvas"
   ]
 }
