@@ -1,0 +1,3 @@
+- Kali
+- VMWare Workstation Player
+- VirtualBox
