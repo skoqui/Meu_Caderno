@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Wiki - Links/ARP.md",
+                "file": "00 - Wiki - Links/RAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARP"
+              "title": "RAM"
             }
           }
         ]
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Wiki - Links/ARP.md",
+                "file": "00 - Wiki - Links/RAM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ARP"
+              "title": "Sumário de RAM"
             }
           }
         ],
@@ -197,9 +197,15 @@
   },
   "active": "b4efd5b1776a2e77",
   "lastOpenFiles": [
-    "00 - Wiki - Links/NAT.md",
-    "00 - Wiki - Links/ARP.md",
+    "00 - Wiki - Links/Processador.md",
+    "00 - Wiki - Links/RAM.md",
+    "02 - Cursos Cibersec/Curso Solyd/03 - Introdução à Arquitetura de Computadores/Introdução.md",
     "02 - Cursos Cibersec/Curso Solyd/02 - Preparando Ambiente/Programas.md",
+    "02 - Cursos Cibersec/Curso Solyd/03 - Introdução à Arquitetura de Computadores",
+    "02 - Cursos Cibersec/Curso Solyd/02 - Preparando Ambiente/Sem título",
+    "Sem título.md",
+    "00 - Wiki - Links/ARP.md",
+    "00 - Wiki - Links/NAT.md",
     "02 - Cursos Cibersec/Curso Pentest/Curso Burp-Suite/Curso Andres Alonso/Canvas/Esboço.canvas",
     "02 - Cursos Cibersec/Curso Solyd/01 - Introdução/Anotações das aulas.md",
     "02 - Cursos Cibersec/Curso Solyd/02 - Preparando Ambiente",
@@ -227,14 +233,8 @@
     "00 - Templates/ctf.md",
     "00 - Templates/Wiki.md",
     "00 - Templates/Tópico de curso.md",
-    "00 - Templates/Relatório detalhado.md",
-    "00 - Templates/Relatório detalhado - Golpe do falso boleto.md",
-    "00 - Templates/Relatório Template.md",
-    "00 - Templates/Relatório Perícia - Golpe do Pix.md",
     "00 - Templates",
-    "Templates",
     "02 - Cursos Cibersec/Curso Pentest/Prof. Messias Eric/Imagens/Pasted image 20250804222058.png",
-    "06 - CTFs",
     "Trabalho/Proteção Digital (1).png",
     "Trabalho/Proteção Digital.png",
     "Trabalho/logo.png",

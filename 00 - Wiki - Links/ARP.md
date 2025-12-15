@@ -27,3 +27,5 @@ Ele permite que um dispositivo descubra o MAC correspondente a um IP antes de en
 - ARP estático
 - DHCP Snooping + Dynamic ARP Inspection
 - Segmentação de rede
+
+
