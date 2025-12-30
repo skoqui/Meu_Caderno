@@ -7,22 +7,31 @@ tags:
 -----
 # 📌 Tarefas diárias
 
-- [ ] - Leitura diária (10 minutos)
-- [ ] - Estudar violão
-- [ ] - Python
-- [ ] - 3L de água (mínimo) 
+### 🔹Manhã (08h – 12h)
+- [ ] - Leitura/Pregação Bíblica – 10 min
+- [ ] - Solyd – 1 hora
 - [ ] - Limpar/Organizar a casa
+### 🔹Meio-dia (12h)
 - [ ] - Academia
+### 🔹Noite (18h)
 - [ ] - Passear com a Kira
+- [ ] - 3L de água (mín.) 
 
 
 ----
-# 📝 Lembrete
+# 📝 Lembrete do dia
 
-```markdown
+```ad-resumo
+title: Notas
 
-
-
+- 
+- 
+- 
+---
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ```
 

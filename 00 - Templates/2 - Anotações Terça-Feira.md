@@ -1,28 +1,36 @@
 ---
 Semana: Terça-Feira
-Data: 
+Data:
 tags:
   - daily
 ---
 -----
 # 📌 Tarefas diárias
 
-- [ ] - Leitura diária (10 minutos)
-- [ ] - Estudar violão
-- [ ] - BugBounty
-- [ ] - 3L de água (mínimo) 
+### 🔹Manhã (08h – 12h)
+- [ ] - Leitura/Pregação Bíblica – 10 min
+- [ ] - Inglês – 1 hora
 - [ ] - Limpar/Organizar a casa
+### 🔹Meio-dia (12h)
 - [ ] - Academia
-- [ ] - Passear com a Kira
+### 🔹Noite (18h)
+- [ ] - 3L de água (mín.) 
 
 
 ----
-# 📝 Lembrete
+# 📝 Lembrete do dia
 
-```markdown
+```ad-resumo
+title: Notas
 
-
-
+- 
+- 
+- 
+---
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ```
 

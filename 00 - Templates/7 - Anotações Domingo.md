@@ -7,22 +7,30 @@ tags:
 -----
 # 📌 Tarefas diárias
 
-- [ ] - Leitura diária (10 minutos)
-- [ ] - Ensaiar violão (quando for tocar na missa)
-- [ ] - 3L de água (mínimo)
-- [ ] - Missa
+### 🔹Manhã (08h – 12h)
+- [ ] - 
+### 🔹Meio-dia (12h)
+- [ ] -
+### 🔹Noite (18h)
+- [ ] - 3L de água (mín.) 
 
 
 ----
-# 📝 Lembrete
+# 📝 Lembrete do dia
 
-```markdown
+```ad-resumo
+title: Notas
 
-
-
+- 
+- 
+- 
+---
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ```
-
 
 
 -----

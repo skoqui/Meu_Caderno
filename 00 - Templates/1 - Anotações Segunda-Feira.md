@@ -1,28 +1,37 @@
 ---
 Semana: Segunta-Feira
-Data: 
+Data:
 tags:
   - daily
 ---
 -----
 # 📌 Tarefas diárias
 
-- [ ] - Leitura diária (10 minutos)
-- [ ] - Estudar violão
-- [ ] - Inglês
-- [ ] - 3L de água (mínimo) 
+### 🔹Manhã (08h – 12h)
+- [ ] - Leitura/Pregação Bíblica – 10 min
+- [ ] - Curso programação em C
 - [ ] - Limpar/Organizar a casa
+### 🔹Meio-dia (12h)
 - [ ] - Academia
+### 🔹Noite (18h)
 - [ ] - Passear com a Kira
+- [ ] - 3L de água (mín.) 
 
 
 ----
-# 📝 Lembrete
+# 📝 Lembrete do dia
 
-```markdown
+```ad-resumo
+title: Notas
 
-
-
+- 
+- 
+- 
+---
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ```
 

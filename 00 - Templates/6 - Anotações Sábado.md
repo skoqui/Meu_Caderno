@@ -7,21 +7,28 @@ tags:
 -----
 # 📌 Tarefas diárias
 
-- [ ] - Leitura diária (10 minutos)
-- [ ] - Estudar violão 
-- [ ] - 3L de água (mínimo) 
+### 🔹Manhã (08h – 12h)
+- [ ] - Leitura/Pregação Bíblica – 10 min
+### 🔹Meio-dia (12h)
 - [ ] - Limpar/Organizar a casa
-- [ ] - Academia
-
+### 🔹Noite (18h)
+- [ ] - 3L de água (mín.) 
 
 
 ----
-# 📝 Lembrete
+# 📝 Lembrete do dia
 
-```markdown
+```ad-resumo
+title: Notas
 
-
-
+- 
+- 
+- 
+---
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ```
 
