@@ -9,8 +9,7 @@ Depois, calcule e exiba a média de gols por partida.
 #include <stdio.h>
 
 int main() {
-  int gols;
-  int partidas;
+  int gols, partidas;
   float media;
 
   printf("Digite o número de gols: ");
@@ -19,7 +18,7 @@ int main() {
   printf("Digite a quantidade de partidas: ");
   scanf("%d", &partidas);
 
-  media = gols / partidas;
+  media = (float)gols / partidas;
 
   printf("Média de gols por partida: %.2f\n", media);
 

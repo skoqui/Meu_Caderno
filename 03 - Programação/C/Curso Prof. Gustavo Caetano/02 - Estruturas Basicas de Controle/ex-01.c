@@ -10,8 +10,7 @@ Em seguida, exiba essas informações na tela.
 
 int main() {
   char nome[20];
-  int idade;
-  int gols;
+  int idade, gols;
 
   printf("Digite o nome do jogador: ");
   scanf("%s",
