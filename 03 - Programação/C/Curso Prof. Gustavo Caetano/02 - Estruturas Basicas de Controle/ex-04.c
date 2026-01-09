@@ -25,7 +25,7 @@ int main() {
   printf("Digite o número de derrotas: ");
   scanf("%d", &derrotas);
 
-  pontos = vitorias * 3 + empates;
+  pontos = (vitorias * 3) + empates;
 
   printf("O número de pontos do time é: %d\n", pontos);
 
