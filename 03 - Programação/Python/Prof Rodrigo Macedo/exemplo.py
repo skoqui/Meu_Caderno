@@ -1,0 +1,1 @@
+Um texto de exemplo sobre Python em um arquivo .py
