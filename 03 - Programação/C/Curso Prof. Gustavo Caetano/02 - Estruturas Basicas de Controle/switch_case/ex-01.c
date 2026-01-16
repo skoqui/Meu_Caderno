@@ -18,10 +18,12 @@ Se digitar qualquer outro número, mostrar "Opção inválida!".
 int main() {
   int opcao;
 
+  printf("=== Cardápio ===\n");
   printf("1 - Hambúrguer\n");
   printf("2 - Cachorro-quente\n");
   printf("3 - Pizza\n");
   printf("4 - Sair\n");
+  printf("===============\n");
 
   printf("Digite a opção desejada: ");
   scanf("%d", &opcao);
