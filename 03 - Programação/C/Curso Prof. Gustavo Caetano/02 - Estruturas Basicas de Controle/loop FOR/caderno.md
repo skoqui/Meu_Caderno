@@ -5,5 +5,5 @@ for (Integer i = 0; i < 5; i++) {
 }
 ```
 
-![image.png](attachment:image.png)
+![alt text](image.png)
 
