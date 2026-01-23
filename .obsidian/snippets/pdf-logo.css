@@ -1,0 +1,10 @@
+@media print {
+  body::before {
+    content: "";
+    display: block;
+    background: url("file:///home/skoqui/Documentos/Obsidian Vault/Principal/.obsidian/snippets/logo.png") no-repeat center top;
+    background-size: 120px 120px; /* ajuste o tamanho */
+    height: 140px;
+    margin-bottom: 20px;
+  }
+}

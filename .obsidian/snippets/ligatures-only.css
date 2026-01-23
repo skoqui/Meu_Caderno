@@ -1,0 +1,16 @@
+/* SOMENTE o texto do editor (Markdown) */
+.markdown-source-view,
+.markdown-preview-view {
+  font-family: 'JetBrains Mono', monospace;
+  font-variant-ligatures: common-ligatures contextual;
+  font-feature-settings: "liga" 1, "calt" 1;
+}
+
+/* Garante ligaduras em blocos de código */
+.markdown-source-view code,
+.markdown-preview-view code {
+  font-family: 'JetBrains Mono', monospace;
+  font-variant-ligatures: common-ligatures contextual;
+  font-feature-settings: "liga" 1, "calt" 1;
+}
+
