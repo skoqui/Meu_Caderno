@@ -46,12 +46,42 @@ Ele coleta, analisa e correlaciona [[logs]] e eventos de sistema para identifica
 
 ![[Pasted image 20260126162434.png]]
 
+>Essa imagem mostra como o **Wazuh** funciona como um "vigia" tecnológico para a sua rede. Ele é dividido em três grandes partes que trabalham juntas para detectar ameaças.
+
+Imagine que o Wazuh é um sistema de segurança de um grande prédio comercial:
+
+### 1. Endpoints (Os Postos de Vigia)
+
+No lado esquerdo, temos os **Endpoints** (Servidores, Desktops, Laptops, Nuvem).
+- Em cada um deles, você instala um pequeno programa chamado **Wazuh Agent**.
+- **O que ele faz:** Ele fica "olhando" tudo o que acontece no computador (quem logou, se algum arquivo foi alterado, se há vírus) e envia esses relatórios para a central.
+
+### 2. Central Components (O Cérebro)
+
+No meio, temos os componentes centrais, que processam as informações:
+
+- **Network Load Balancer:** Funciona como um recepcionista que recebe todos os relatórios dos agentes e os distribui de forma organizada para os servidores não ficarem sobrecarregados.
+
+- **Wazuh Server Cluster:** É aqui que a mágica acontece. Ele tem um **Master Node** (o chefe) e vários **Worker Nodes** (os ajudantes).
+    - **Analysis Engine:** É o motor de análise. Ele lê os relatórios dos agentes e decide: "Isso aqui é normal" ou "Isso aqui é um ataque hacker!".
+    - **Filebeat:** É o "correio" que pega os dados analisados e leva para o arquivo (Indexer).
+
+- **Wazuh Indexer:** É o grande **arquivo digital**. Ele guarda todos os logs e alertas de forma organizada para que você possa pesquisar depois.
+
+### 3. Visualização (A Sala de Monitoramento)
+
+No topo e à direita, temos onde o usuário interage:
+
+- **Wazuh Dashboard:** É a tela bonita com gráficos e mapas que os analistas de segurança olham. Ela puxa os dados do Indexer e mostra tudo o que está acontecendo em tempo real.
+
+- **Wazuh Users:** São as pessoas (como você ou sua equipe de TI) que usam o dashboard para tomar decisões e proteger a empresa.
+
 ---
 
 ## Casos de Uso
 - SOC e Blue Team
 - Monitoramento de servidores Linux/Windows
-- Detecção de ataques (bruteforce, malware, privilege escalation)
+- Detecção de ataques ([[bruteforce]], [[malware]], privilege escalation)
 - Segurança em cloud e ambientes híbridos
 - Auditoria e conformidade
 
@@ -67,7 +97,7 @@ Ele coleta, analisa e correlaciona [[logs]] e eventos de sistema para identifica
 
 ### Resumo:
 - É uma solução de monitoramento open-source que contempla um conjunto de componentes avançados de segurança.
-- **Principais Compententes:**
+- **Principais Componentes:**
 	- coleta de logs;
 	- análise de logs (conjunto personalizável de mais de 4000 regras HIDS);
 	- monitoramento de integridade de arquivos;
