@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Templates/1 - Anotações Segunda-Feira.md",
+                "file": "04 - SIEM/Wazuh/Diazero Security/Anotações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Anotações Segunda-Feira"
+              "title": "Anotações"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3cf7b1b7510a12e6",
@@ -128,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Templates/1 - Anotações Segunda-Feira.md",
+                "file": "04 - SIEM/Wazuh/Diazero Security/Anotações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1 - Anotações Segunda-Feira"
+              "title": "Sumário de Anotações"
             }
           }
         ],
@@ -181,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,13 +199,24 @@
   },
   "active": "72dc5c62bc9e4773",
   "lastOpenFiles": [
+    "Pasted image 20260126162434.png",
+    "00 - Wiki - Links/IPS.md",
+    "04 - SIEM/Wazuh/Diazero Security/Anotações.md",
+    "00 - Wiki - Links/HIDS.md",
+    "00 - Wiki - Links/IDS.md",
+    "02 - Cursos Cibersec/Curso Pentest/Curso Solyd/04 - Introdução a Redes de Computadores/Aula 1.md",
+    "00 - Wiki - Links/Wazuh.md",
+    "00 - Wiki - Links/logs.md",
+    "00 - Templates/1 - Anotações Segunda-Feira.md",
+    "04 - SIEM/Wazuh/Diazero Security",
+    "04 - SIEM/Wazuh",
+    "04 - SIEM",
     "00 - Templates/4 - Anotações Quinta-Feira.md",
     "00 - Templates/3 - Anotações Quarta-Feira.md",
     "00 - Templates/5 - Anotações Sexta-Feira.md",
     "00 - Templates/7 - Anotações Domingo.md",
     "00 - Templates/6 - Anotações Sábado.md",
     "00 - Templates/2 - Anotações Terça-Feira.md",
-    "00 - Templates/1 - Anotações Segunda-Feira.md",
     "01 - Anotações/2026-01-14.md",
     "01 - Anotações/2026-01-12.md",
     "03 - Programação/C/Curso Prof. Gustavo Caetano/Anotações.md",
@@ -222,18 +235,7 @@
     "03 - Programação/C/Curso Prof. Gustavo Caetano/02 - Estruturas Basicas de Controle/output/ex-08",
     "03 - Programação/C/Curso Prof. Gustavo Caetano/02 - Estruturas Basicas de Controle/ex-08.c",
     "03 - Programação/C/Curso Prof. Gustavo Caetano/02 - Estruturas Basicas de Controle/output/ex-07",
-    "03 - Programação/C/Curso Prof. Gustavo Caetano/02 - Estruturas Basicas de Controle/ex-07.c",
-    "03 - Programação/C/Curso Prof. Gustavo Caetano/02 - Estruturas Basicas de Controle/output/ex-06",
-    "03 - Programação/C/Curso Prof. Gustavo Caetano/02 - Estruturas Basicas de Controle/ex-06.c",
     "02 - Cursos Cibersec/Curso Pentest/Curso Solyd/04 - Introdução a Redes de Computadores/Aula 2.md",
-    "02 - Cursos Cibersec/Curso Pentest/Curso Solyd/04 - Introdução a Redes de Computadores/Aula 1.md",
-    "01 - Anotações/2025-12-31.md",
-    "01 - Anotações/2025-12-30.md",
-    "00 - Templates/0 - 40 Dias São Miguel Arcanjo.md",
-    "README.md",
-    "02 - Cursos Cibersec/Curso Pentest/Curso Solyd/03 - Introdução à Arquitetura de Computadores/Compilando código/Código C.md",
-    "05 - CTFs/CTFs.md",
-    "02 - Cursos Cibersec/Curso Pentest/Curso Forense Digital/Prof. Messias Eric/Recuperação de Dados.md",
     "02 - Cursos Cibersec/Curso Pentest/Curso Burp-Suite/Curso Andres Alonso/Canvas/Esboço.canvas",
     "02 - Cursos Cibersec/Curso Pentest/Prof. Messias Eric/Imagens/Pasted image 20250804222058.png",
     "Trabalho/Proteção Digital (1).png",
@@ -242,7 +244,7 @@
     "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/Canvas/esboço.canvas",
     "logo.png",
     "0 - Estrutura Obsidian/Canvas/Sem título.canvas",
-    "04 - UNIP/Banco de imagens/_- visual selection.png",
+    "06 - UNIP/Banco de imagens/_- visual selection.png",
     "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/Canvas/name server.canvas",
     "02 - Cursos Cibersec/Curso Pentest/Curso Gabriel Pato/Canvas/Pasted image 20250812154548.png",
     "02 - Cursos Cibersec/Curso Pentest/Curso Burp-Suite/Curso Andres Alonso/0 - img-burp-suite/Pasted image 20250808161130.png",
