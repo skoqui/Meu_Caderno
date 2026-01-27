@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - SIEM/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -196,19 +196,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d0033b4c8233525",
+  "active": "72dc5c62bc9e4773",
   "lastOpenFiles": [
+    "04 - SIEM/Wazuh/Diazero Security/docs/Pasted image 20260126162434.png",
+    "04 - SIEM/Wazuh/Diazero Security/docs",
+    "04 - SIEM/Wazuh/Diazero Security/Anotações.md",
+    "04 - SIEM/README.md",
     "04 - SIEM/Qradar",
     "04 - SIEM/Splunk",
     "04 - SIEM/Wazuh/README.md",
-    "04 - SIEM/README.md",
     "README.md",
-    "04 - SIEM/Wazuh/Diazero Security/Anotações.md",
     "00 - Wiki - Links/HIDS.md",
     "00 - Wiki - Links/IPS.md",
     "00 - Wiki - Links/Bruteforce.md",
     "00 - Wiki - Links/Malware.md",
-    "Pasted image 20260126162434.png",
     "00 - Wiki - Links/IDS.md",
     "02 - Cursos Cibersec/Curso Pentest/Curso Solyd/04 - Introdução a Redes de Computadores/Aula 1.md",
     "00 - Wiki - Links/Wazuh.md",
@@ -234,8 +235,6 @@
     "03 - Programação/C/Curso Prof. Gustavo Caetano/02 - Estruturas Basicas de Controle/ex-10.c",
     "03 - Programação/C/Curso Prof. Gustavo Caetano/02 - Estruturas Basicas de Controle/output/ex-09",
     "03 - Programação/C/Curso Prof. Gustavo Caetano/02 - Estruturas Basicas de Controle/ex-09.c",
-    "03 - Programação/C/Curso Prof. Gustavo Caetano/02 - Estruturas Basicas de Controle/output/ex-08",
-    "03 - Programação/C/Curso Prof. Gustavo Caetano/02 - Estruturas Basicas de Controle/ex-08.c",
     "02 - Cursos Cibersec/Curso Pentest/Curso Burp-Suite/Curso Andres Alonso/Canvas/Esboço.canvas",
     "02 - Cursos Cibersec/Curso Pentest/Prof. Messias Eric/Imagens/Pasted image 20250804222058.png",
     "Trabalho/Proteção Digital (1).png",
