@@ -43,7 +43,7 @@ title: Notas
 # 📖 Versículo do dia
 
 
- ```ad-biblia
+```ad-biblia
 title: Citação da Bíblia
 collapse: open
 
@@ -53,5 +53,3 @@ collapse: open
 <li><sup>1</sup>Texto</li>
 </ul>
 ```
-
- 

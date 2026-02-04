@@ -17,6 +17,7 @@ eu, as pessoas que amo e as pessoas que mais precisam. Amém.
 
 ### 🔹Manhã (08h – 12h)
 - [ ] – Leitura/Pregação Bíblica – 10 min
+- [ ] – Curso Eletrônica - Arduino/ESP32
 ### 🔹Meio-dia (12h)
 - [ ] – Limpar/Organizar a casa
 ### 🔹Noite (18h)
@@ -44,7 +45,7 @@ title: Notas
 # 📖 Versículo do dia
 
 
- ```ad-biblia
+```ad-biblia
 title: Citação da Bíblia
 collapse: open
 
@@ -54,5 +55,3 @@ collapse: open
 <li><sup>1</sup>Texto</li>
 </ul>
 ```
-
- 

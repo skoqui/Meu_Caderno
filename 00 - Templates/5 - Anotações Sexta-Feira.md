@@ -47,7 +47,7 @@ title: Notas
 # 📖 Versículo do dia
 
 
- ```ad-biblia
+```ad-biblia
 title: Citação da Bíblia
 collapse: open
 

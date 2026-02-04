@@ -17,7 +17,7 @@ principalmente as pessoas que amo e as pessoas que mais necessitam. Amém.
 
 ### 🔹Manhã (08h – 12h)
 - [ ] – Leitura/Pregação Bíblica – 10 min
-- [ ] – Inglês – 1 hora
+- [ ] – Inglês
 - [ ] – Limpar/Organizar a casa
 ### 🔹Meio-dia (12h)
 - [ ] – Academia
@@ -46,7 +46,7 @@ title: Notas
 # 📖 Versículo do dia
 
 
- ```ad-biblia
+```ad-biblia
 title: Citação da Bíblia
 collapse: open
 

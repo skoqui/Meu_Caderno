@@ -17,7 +17,7 @@ especialmente as pessoas que amo e as que mais precisam. Amém.
 
 ### 🔹Manhã (08h – 12h)
 - [ ] – Leitura/Pregação Bíblica – 10 min
-- [ ] – Curso programação em C
+- [ ] – Curso Wazuh
 - [ ] – Limpar/Organizar a casa
 ### 🔹Meio-dia (12h)
 - [ ] – Academia
@@ -47,7 +47,7 @@ title: Notas
 # 📖 Versículo do dia
 
 
- ```ad-biblia
+```ad-biblia
 title: Citação da Bíblia
 collapse: open
 
