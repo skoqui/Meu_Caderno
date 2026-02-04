@@ -116,7 +116,7 @@ De cima para baixo:
 2. Os aplicativos falam com o sistema operacional.
 3. O sistema operacional fala com o hardware.
 
-![[Pasted image 20260204135604.png]]
+![](../../Banco%20de%20imagens/estrutura.png)
 
 
 → **Lembrete:**
@@ -173,7 +173,7 @@ Funciona com bolinhas organizadas em colunas:
 - Parte de baixo = vale 1
 - Parte de cima = vale 5
 
-![[Pasted image 20260204134851.png]]
+![](../../Banco%20de%20imagens/abaco.png)
 
 Cada coluna representa:
 - Unidade
@@ -197,7 +197,7 @@ Funcionava com rodas dentadas:
 - Cada roda era uma casa decimal
 - Quando passava de 9, empurrava a próxima
 
-![[Pasted image 20260204135939.png]]
+![](../../Banco%20de%20imagens/Pasc.png)
 
 → **Exemplo:**
 Igual quando você soma 9 + 1 e "vai 1" para a próxima casa.
@@ -222,7 +222,7 @@ Características:
 → **Exemplo famoso:**
 - **ENIAC** (30 toneladas, 17 mil válvulas)
 
-![[Pasted image 20260204140520.png]]
+![](../../Banco%20de%20imagens/ENIAC.png)
 
 → **Lembrete:**
 ```
@@ -292,7 +292,7 @@ Computadores domésticos e notebooks.
 ```
 
 
-![[Pasted image 20260204141054.png]]
+![](../../Banco%20de%20imagens/Evolut.png)
 
 ---
 
