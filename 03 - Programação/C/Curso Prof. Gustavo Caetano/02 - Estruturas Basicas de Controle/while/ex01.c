@@ -11,17 +11,19 @@ Ao final, exiba quantas rodadas foram necessárias para atingir a meta.
 #include <stdio.h>
 
 int main() {
-  int moedas = 0, rodadas = 0;
-  int soma = 0;
+  int moedas = 0;
+  int rodadas = 0;
+  int total = 0;
 
-  while (moedas < 100) {
-    printf("Digite a quantidade de moedas coletadas na rodada: ");
+  while (total < 100) {
+    printf("Quantidade de moedas coletadas: ");
     scanf("%d", &moedas);
-    soma += moedas;
+    total += moedas;
     rodadas++;
   }
 
-  printf("Foram necessarias %d rodadas para coletar 100 moedas.\n", rodadas);
+  printf("Quantidade de rodadas: %d\n", rodadas);
+  printf("Total de moedas coletadas: %d\n", total);
 
   return 0;
 }
